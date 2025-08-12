@@ -16,9 +16,7 @@ To Develop a python program to Plot a time series data (population/ market price
 5. Display the graph.
 
 # PROGRAM:
-
 ```
-
 import pandas as pd
 import matplotlib.pyplot as plt
 
